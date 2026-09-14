@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y0R0SRTVZ"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-8Y0R0SRTVZ');
+	</script>
+  <meta charset="utf-8" />
+  <meta name="theme-color" content="#2d3331" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <title>Paper.io 3D</title>
+  <meta name="description" content="Play Paper.io 3D and crush competitors in online multiplayer battles for territory. Draw the borders of the kingdom on a three-dimensional surface, and conquer the entire map." />
+  <meta name="keywords" content="paper.io 3d" />
+  <link rel="canonical" href="https://paperio.site/3d/" />
+    <link rel="icon" type="image/png" href="/assets/images/icon512.png" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:700&amp;subset=cyrillic" />
+  <link href="https://fonts.googleapis.com/css2?family=Truculenta&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="styles/uiStyle.css?v2" />
+  <link rel="stylesheet" type="text/css" href="styles.css?v2" />
+	<script>
+	</script>
+	<script async src="//api.adinplay.com/libs/aiptag/pub/TPZ/paperio.site/tag.min.js"></script>
+</head>
+
+<body>
+  <script type="text/javascript" src="adinAds.js?va2"></script>
+
+  <script type="text/javascript">
+    window.player_id = 278918113;
+    window.player_id_3d = 970799628109;
+  </script>
+
+   <div id="game">
+    <canvas id="gameCanvas">
+      Please use a browser that supports "canvas".
+    </canvas>
+  </div>
+  <div id="gameUI"></div>
+
+  <div id="about">
+    <div class="close" onclick="HideAbout();">×</div>
+    <div class="text">
+      <h1>Paper.io 3d online game</h1>
+      <p>
+        The legendary multiplayer arena is back with a new exciting installment. Paper.io 3D is an online PvP battle over
+         territory. Just like before, players compete against each other by conquering regions on a vast map.
+          They automatically draw borders while moving. As soon as the line is closed, the area inside is added to their kingdom.
+           However, this time the battlefield looks more impressive than ever thanks to the updated visuals. Join the servers and 
+           fight other challengers by capturing their lands. Interrupt their outlines to kill them, expand the safe zone, and
+            dominate the leaderboards.
+      </p>
+      <h2>Three Dimensions of Fun</h2>
+      <p>Sequels that introduce drastic changes often ruin what made their predecessors enjoyable. In this case, fans
+       of the franchise have nothing to worry about. The latest release keeps the original mechanics and elevates them
+        with numerous innovative improvements:</p>
+      <ul>
+        <li>Signature gameplay that feels even snappier and more addictive</li>
+        <li>Amazing graphics with realistic lighting and vibrant colors</li>
+        <li>Intense matches that now take place in three-dimensional space</li>
+        <li>Several levels with distinctive layouts, including Cube, Croissant, and Duck</li>
+        <li>Low learning curve with an unlimited potential for growth and mastery</li>
+        <li>Intuitive controls optimized for different devices</li>
+      </ul>
+      <p>
+        The process is both familiar and refreshing in the best possible sense. Veterans of the series and newcomers alike will 
+        appreciate this delightful edition.
+      </p>
+      <h2>How to Play Paper.io 3D</h2>     
+      <p>
+        The goal is to occupy the largest surface and stay alive. Each participant leaves a trail of their unique color behind.
+         The movement is automatic. Steer by dragging the cursor in the appropriate direction or by pressing WASD/Arrows.
+          The competitors are invulnerable in the safety of their perimeter. Venturing outside is the only way to progress,
+           but it leaves them open to attacks. Crash into a translucent tail to eliminate the enemy who originated it. Strive
+            to take over the entire stage and reach the highest rank.
+      </p>
+      <p>
+      Experience a fresh spin on the iconic formula. Enjoy Paper.io 3D for free in a regular browser window without downloading.
+       Outsmart and outmaneuver formidable opponents, seize their domains, and win every time.
+      </p>
+      <p>
+        <a href="#aboutclose" onclick="HideAbout();">Close window </a>
+      </p>
+    </div>
+  </div>
+  <div id="leftSideUI">
+<div id="gameadsbanner"></div>
+<script type="text/javascript">
+(function(g,a,m,e,A,d,s){g[A]=g[A]||function(){(g[A].s=g[A].s||[]).push(arguments)};
+g[A].l=1*new Date();d=a.createElement("script"),s=a.getElementsByTagName("script")[0],d.async=1,d.src=e+"?objid="+m+"&jsdate="+(+new Date())+"&lang="+g.navigator.language+"&rfunc="+A+"&refr="+a.referrer+"&fromhost=paperio.site"+"",s.parentNode.insertBefore(d,s)})
+(window, document, "gameadsbanner", "https://n.gameads.io/getcode", "GameAdsRenew");
+</script>
+
+    <a class="feedback" href="https://forms.gle/6BcwPWjBPVhUBWZ78" target="_blank">Make Paper.io 3D better!</a>
+
+  </div>
+  <div id="bottom">
+    <a href="#about" onclick="ShowAbout()">About game</a> &nbsp; &nbsp;
+    <a href="/privacy/" target="_blank">Privacy policy</a> &nbsp; &nbsp;
+  </div>
+
+  <div id="preroll" style="min-width: 480px; min-height: 360px; width: 100%; height: 100%; position: absolute; z-index: 1001; display: none;"></div>
+
+  <script type="text/javascript" src="paper3d-obfuscated.js?va10b"></script>
+
+  <script type="text/javascript" src="app.js?va8b"></script>
+
+<!-- Yandex.Metrika counter -->
+	<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53988832, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/53988832" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+<<script type="text/javascript">window.onerror=window.alert=function(){return true;}; setTimeout(main, 1000)</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"32d83ac750404a0ab5246293ab8e7425","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+
+</html>
